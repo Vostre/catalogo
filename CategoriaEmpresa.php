@@ -2,11 +2,9 @@
 
 /* Generated from GenMyModel */
 
-class Telefone {
+class CategoriaEmpresa {
 	private $empresa;
-	private $telefone;
-	private $tipoTelefone;
-	private $operadora;
+	private $categoria;
 	private $situacao;
 	
 }

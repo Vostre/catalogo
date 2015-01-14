@@ -12,5 +12,6 @@ class Promocao {
 	private $Empresa;
 	private $dataCadastro;
 	private $ultimaAlteracao;
+	private $situacao;
 	
 }

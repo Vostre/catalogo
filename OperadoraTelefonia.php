@@ -5,5 +5,6 @@
 class OperadoraTelefonia {
 	private $id;
 	private $nome;
+	private $situacao;
 	
 }

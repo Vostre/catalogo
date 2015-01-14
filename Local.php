@@ -8,5 +8,6 @@ class Local {
 	private $estado;
 	private $cidade;
 	private $tipoLocal;
+	private $situacao;
 	
 }

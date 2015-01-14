@@ -5,5 +5,6 @@
 class TipoUsuario {
 	private $id;
 	private $nome;
+	private $situacao;
 	
 }

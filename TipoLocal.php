@@ -5,5 +5,6 @@
 class TipoLocal {
 	private $id;
 	private $nome;
+	private $situacao;
 	
 }

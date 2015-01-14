@@ -7,5 +7,6 @@ class Estado {
 	private $nome;
 	private $sigla;
 	private $pais;
+	private $situacao;
 	
 }

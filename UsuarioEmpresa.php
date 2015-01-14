@@ -5,5 +5,6 @@
 class UsuarioEmpresa {
 	private $empresa;
 	private $usuario;
+	private $situacao;
 	
 }

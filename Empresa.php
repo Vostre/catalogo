@@ -7,7 +7,6 @@ class Empresa {
 	private $razaoSocial;
 	private $fantasia;
 	private $cnpj;
-	private $categoria;
 	private $logo;
 	private $situacao;
 	private $dataCadastro;

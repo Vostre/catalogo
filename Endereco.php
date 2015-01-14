@@ -9,5 +9,6 @@ class Endereco {
 	private $bairro;
 	private $cep;
 	private $empresa;
+	private $situacao;
 	
 }
